@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TugasFrontEnd_Cindy</string>
+    <string name="menu_about">About</string>
+    <string name="menu_list">List</string>
+    <string name="menu_grid">Grid</string>
+</resources>
